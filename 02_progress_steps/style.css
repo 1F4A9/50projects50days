@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
+.container::before,
+.progress-bar {
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  transform: translateY(-50%);
+  height: 4px;
+}
+
+.container::before {
+  content: '';
+  background-color: #dddcdd;
+  width: 100%;
+}
+
+.progress-bar {
+  background-color: #2788d7;
+  width: 0%;
+
+  transition: width 0.3s linear;
+}
+
+.circle {
+  position: relative;
+  z-index: 5;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #dddcdd;
+  border-radius: 50%;
+  background-color: #fff;
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+  text-align: center;
+  line-height: 30px;
+  box-sizing: border-box;
+
+  transition: border-color 0.2s ease-in-out;
+}
+
+.circle.active {
+  border-color: #2788d7;
+}
+
+.circle:not(:last-child) {
+  /* (3 * width - borderWidth) */
+  margin-right: calc(3 * 36px - 3px);
+}
+
+.button-group {
+  margin-top: 48px;
+}
+
+.btn {
+  padding: 12px 32px;
+  margin: 0 4px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 4px;
+  background-color: #2788d7;
+  color: #fff;
+
+  transform: scale(1);
+  transition: padding 0.3s ease-in-out;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+.btn:disabled {
+  background-color: #dddcdd;
+  cursor: default;
+}
