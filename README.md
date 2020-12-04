@@ -4,7 +4,7 @@
 | :-: | ------- |
 | 01  | [Expanding Cards](https://github.com/hipp0campus/50projects50days/tree/master/01_expanding_cards) |
 | 02  | [Progress Steps](https://github.com/hipp0campus/50projects50days/tree/master/02_progress_steps) |
-| 03  |  |
+| 03  | [Rotating Navigation](https://github.com/hipp0campus/50projects50days/tree/master/03_rotating_navigation) |
 | 04  |  |
 | 05  |  |
 | 06  |  |
