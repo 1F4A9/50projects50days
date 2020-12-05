@@ -5,7 +5,7 @@
 | 01  | [Expanding Cards](https://github.com/hipp0campus/50projects50days/tree/master/01_expanding_cards) |
 | 02  | [Progress Steps](https://github.com/hipp0campus/50projects50days/tree/master/02_progress_steps) |
 | 03  | [Rotating Navigation](https://github.com/hipp0campus/50projects50days/tree/master/03_rotating_navigation) |
-| 04  |  |
+| 04  | [Hidden Search Form](https://github.com/hipp0campus/50projects50days/tree/master/04_hidden_search_form) |
 | 05  |  |
 | 06  |  |
 | 07  |  |
