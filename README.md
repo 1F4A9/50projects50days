@@ -6,7 +6,7 @@
 | 02  | [Progress Steps](https://github.com/hipp0campus/50projects50days/tree/master/02_progress_steps) |
 | 03  | [Rotating Navigation](https://github.com/hipp0campus/50projects50days/tree/master/03_rotating_navigation) |
 | 04  | [Hidden Search Form](https://github.com/hipp0campus/50projects50days/tree/master/04_hidden_search_form) |
-| 05  |  |
+| 05  | [Blurry Loading](https://github.com/hipp0campus/50projects50days/tree/master/05_blurry_loading) |
 | 06  |  |
 | 07  |  |
 | 08  |  |
