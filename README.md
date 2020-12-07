@@ -7,7 +7,7 @@
 | 03  | [Rotating Navigation](https://github.com/hipp0campus/50projects50days/tree/master/03_rotating_navigation) |
 | 04  | [Hidden Search Form](https://github.com/hipp0campus/50projects50days/tree/master/04_hidden_search_form) |
 | 05  | [Blurry Loading](https://github.com/hipp0campus/50projects50days/tree/master/05_blurry_loading) |
-| 06  |  |
+| 06  | [Scroll Animation](https://github.com/hipp0campus/50projects50days/tree/master/06_scroll_animation) |
 | 07  |  |
 | 08  |  |
 | 09  |  |
