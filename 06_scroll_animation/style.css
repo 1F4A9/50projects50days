@@ -40,16 +40,13 @@ h2 {
 }
 
 .content.not-visible {
+  transform: translateX(100vw);
   width: 300vw;
   background: transparent;
   color: transparent;
   box-shadow: none;
 }
 
-.content.not-visible.left {
+.content.not-visible:nth-of-type(even) {
   transform: translateX(-100vw);
-}
-
-.content.not-visible.right {
-  transform: translateX(100vw);
 }

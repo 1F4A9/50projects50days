@@ -21,16 +21,5 @@ function callback(entries) {
       visibleElement.classList.remove('left');
       visibleElement.classList.remove('right');
     }
-
-    // effects element not visible on window load
-    if (visibleElement.classList.contains('not-visible')) {
-      if (count % 2) {
-        visibleElement.classList.add('left');
-        count++;
-      } else {
-        visibleElement.classList.add('right');
-        count++;
-      }
-    }
   });
 };
