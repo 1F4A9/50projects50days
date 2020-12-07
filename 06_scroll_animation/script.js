@@ -18,8 +18,6 @@ function callback(entries) {
 
     if (entry.isIntersecting) {
       visibleElement.classList.remove('not-visible');
-      visibleElement.classList.remove('left');
-      visibleElement.classList.remove('right');
     }
   });
 };
