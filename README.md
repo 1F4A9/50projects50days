@@ -9,7 +9,7 @@
 | 05  | [Blurry Loading](https://github.com/hipp0campus/50projects50days/tree/master/05_blurry_loading) |
 | 06  | [Scroll Animation](https://github.com/hipp0campus/50projects50days/tree/master/06_scroll_animation) |
 | 07  | [Split Landing Page](https://github.com/hipp0campus/50projects50days/tree/master/07_split_landing_page) |
-| 08  |  |
+| 08  | [Input Wave Effect](https://github.com/hipp0campus/50projects50days/tree/master/08_input_wave_effect) |
 | 09  |  |
 | 10  |  |
 | 11  |  |
