@@ -11,7 +11,7 @@
 | 07  | [Split Landing Page](https://github.com/hipp0campus/50projects50days/tree/master/07_split_landing_page) |
 | 08  | [Input Wave Effect](https://github.com/hipp0campus/50projects50days/tree/master/08_input_wave_effect) |
 | 09  | [Sound Board](https://github.com/hipp0campus/50projects50days/tree/master/09_sound_board) |
-| 10  |  |
+| 10  | [Dad Jokes](https://github.com/hipp0campus/50projects50days/tree/master/10_dad_jokes) |
 | 11  |  |
 | 12  |  |
 | 13  |  |
