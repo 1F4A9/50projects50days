@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+
+body {
+  font-family: 'Muli', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: 0;
+  background-color:#EDECED;
+  color: #272727;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.content {
+  position: relative;
+  background-color: #FAF9FA;
+  border: 1px solid #D7D6D7;
+  border-radius: 6px;
+  margin: 20px 0px;
+  min-height: 62px;
+  transition: 0.7s ease;
+}
+
+.content .question {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content .question h3 {
+  padding: 0 12px;
+}
+
+.content .question button[class="toggle-visibility"] {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  padding: 12px 20px;
+}
+
+.content .question button[class="toggle-visibility"] .fas.hide-icon {
+  display: none;
+}
+
+.content .answer p {
+  padding: 0 12px;
+  margin: 1em 0;
+}
+
+.content .answer.hide-element {
+  display: none;
+}
