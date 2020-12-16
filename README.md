@@ -13,7 +13,7 @@
 | 09  | [Sound Board](https://github.com/hipp0campus/50projects50days/tree/master/09_sound_board) |
 | 10  | [Dad Jokes](https://github.com/hipp0campus/50projects50days/tree/master/10_dad_jokes) |
 | 11  | [Key Codes](https://github.com/hipp0campus/50projects50days/tree/master/11_key_codes) |
-| 12  | [Expanding Questions](https://github.com/hipp0campus/50projects50days/tree/master/12_expanding_questions.gif) |
+| 12  | [Expanding Questions](https://github.com/hipp0campus/50projects50days/tree/master/12_expanding_questions) |
 | 13  |  |
 | 14  |  |
 | 15  |  |
